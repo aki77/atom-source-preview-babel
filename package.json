@@ -1,0 +1,26 @@
+{
+  "name": "source-preview-babel",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "source-preview provider for babel",
+  "keywords": [
+    "babel",
+    "es6",
+    "jsx"
+  ],
+  "repository": "https://github.com/aki77/atom-source-preview-babel",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^5.8.3"
+  },
+  "providedServices": {
+    "preview.provider": {
+      "versions": {
+        "0.1.0": "provide"
+      }
+    }
+  }
+}
