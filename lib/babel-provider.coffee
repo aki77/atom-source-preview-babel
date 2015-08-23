@@ -3,7 +3,7 @@ babel = null
 module.exports =
 class BabelProvider
 
-  fromGrammarName: 'Babel ES6 Javascript'
+  fromGrammarName: 'Babel ES6 JavaScript'
   fromScopeName: 'source.js.jsx'
   toScopeName: 'source.js'
 
