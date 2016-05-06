@@ -1,3 +1,6 @@
+## 0.1.2
+* Update README(@marnen)
+
 ## 0.1.1
 * language-babel has new scopename
 
